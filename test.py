@@ -4,10 +4,6 @@ if x%2==0:
 else:
  print("Odd")
 
-
- print("Hello World")
-
- print("We are learning Github")
+print("We are learning branching and merging")
 
 
- print("we have created a new branch")
